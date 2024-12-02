@@ -133,10 +133,7 @@
   .header .header__nav ul{
     display: flex; 
   }
-  .header .header__nav ul li{
-    /* background:var(--light); */
-    padding:1rem;
-  }
+  
   .header .header__nav ul li a{
     color:var(--light);
   }
@@ -223,7 +220,7 @@
     height:100vh;
     display:flex;
     align-items:center;
-    justify-content:center;
+    justify-content:center; 
   }
   .banner h1{
     color:var(--light);
